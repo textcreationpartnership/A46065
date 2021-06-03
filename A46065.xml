@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions declaring how and in what manner the subjects may be furnished with gun-powder</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46065</idno><idno type="EEBO-CITATION">18367747</idno>
+  <idno type="VID">107373</idno>
+  <idno type="EEBO-PROQUEST">2240861484</idno>
+  
+            <idno type="STC">Wing I607</idno>
+            <idno type="STC">ESTC R39300</idno>
+            <idno type="OCLC">18367747</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions declaring how and in what manner the subjects may be furnished with gun-powder</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook ... and are to be sold by John North ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Ordnance and ordnance stores.</term>
+               <term type="topical_term">Gunpowder.</term>
+               <term type="geographic_name">Ireland --  History --  1660-1688.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:107373:1"/>
+            <head>INSTRUCTIONS Declaring how and in what manner the Subjects may be furnished with Gun-Powder.</head>
+            <p>WHereas there were two Proclamations formerly published in this Kingdom, the one in the year <hi>1625.</hi> and the other in the year <hi>1635.</hi> declaring in what manner all His Majesties dutiful Subjects, according to their Qualities and Occasions, should from time to time be furinsh<g ref="char:EOLhyphen"/>ed with fitting proportions of Powder out of His Majesties Stores, paying ready money for the same; It is now resolved, That all His Majesties Stores throughout the Kingdom be furnish<g ref="char:EOLhyphen"/>ed with such and the like proportions of Powder as in the year <hi>1635.</hi> they were, that thereot then Subjects may be competently furnished.</p>
+            <p>The Clerk of every Store is to attend at the Store every day constantly from nine till eleven of the Clock in the fore-noon, to be there in readiness to issue Powder to such as shall be licenced to buy, which is to be issued at twenty pence English per pound.</p>
+            <p>One in every County of good Iudgement and Experience, whose Names are hereafter expres<g ref="char:EOLhyphen"/>sed, is hereby authorized to licence according to these Instructions, the persons so trusted to licence taking care that none be licenced to have at one time greater quantities of Powder, than may be competent to serve him for half a year.</p>
+            <p>That every Licence to be granted by such person so authorized thereunto, shall be granted to the party during pleasure, but not to be recalled unless the party licenced misdemean himself so as he may be justly made uncapable of that favour, or unless the party licencing finde good and suffici<g ref="char:EOLhyphen"/>ent cause to recal his Licence.</p>
+            <p>That the party licenced shall pay to his Clerk, that gives the Licence, six pence English, for his pains in writing it, and no more to be paid to him or any other, as any Fee or Reward for the said Licence.</p>
+            <p>That the person licenced shall cause his Licence to be entered with the Clerk of the Store, where he expects to be supplied, and deliver and cause to be entered with the said Clerk of the Stores, the Names of the Fowlers, that such person to be so licenced intends to imploy, not exceeding three for a Nobleman, two for a Knight, and one for a Gentleman; and none to be admitted to imploy a Fowler, that hath not two hundred pounds English a year; for making which Entry, the Clerk of the Store shall take onely six pence English and no more: and when and as often as any person so to be licenced, shall alter the Names of the Fowlers he intends to imploy, that then and in such case the Clerk of the Store for entering that Alteration shall have two pence English, and no more.</p>
+            <p>That Owners of Ships, for their needful provisions at Sea have Licences from such as are hereby authorized to grant the same; yet with this Caution to the persons licencing, That if there be any Captain or Captains of any of His Majesties Horse-Troops or Foot-Bands, residing or Garrisoned where such Licence shall be desired, that in such case the person licencing shall therein advise with the eldest Captain so resident, and that being done, to grant his Licence by advise of the said Captain, and where no such Captain resides or is Garrisoned, there to advise with two or three of the ablest and most substantial Inhabitants, and with their advise to grant his Li<g ref="char:EOLhyphen"/>cence.</p>
+            <p>That Cities and Corporate Towns shall be allowed such quantities of Powder for their ordi<g ref="char:EOLhyphen"/>nary Musters and Recreations on such days as they have been accustomed, as any Captain of any of His Majesties Horse-Troops or Foot-Bands residing or Garrisoned in such City or Cor<g ref="char:EOLhyphen"/>porate Town shall think fit, by Writing under his Hand to be kept by the Clerk of the Store; And in case where there is no such Captain residing or Garrisoned, there such Allowance to be gi<g ref="char:EOLhyphen"/>ven as the Mayor and Recorder shall think fit, by like Writing under their Hands to be kept by the Clerk of the Store.</p>
+            <p>That such Free-Holders and Farmers be licenced to buy such reasonable quantity of Powder to be used by Themselves onely, and not by their Servants, as the Party trusted for licencing them shall think fit.</p>
+            <p>That in every Licence to be granted there be a Clause inserted, Injoyning and Authorizing
+<pb facs="tcp:107373:2"/> the Party licenced, to apprehend all such as he findes using Powder, not being licenced thereunto, and to convey them to the next Iustice of Peace, who is to proceed with them according to the Pro<g ref="char:EOLhyphen"/>clamation.</p>
+            <p>And to the end those who dwell remote from the Stores may be furnished with Powder for their Recreations, or other necessary O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>casions, without the trouble or charge of going so far as to the Stores, every Captain of the Army, not residing near any Store, may have two Barrels of Pow<g ref="char:EOLhyphen"/>der put into his hands by the Master of the Ordinance, and the Captain to issue it to those who shall be licenced to buy it, and to be answerable for the same to the Master of the Ordinance, half-yearly. And the Captain's Officer or Servant to be imployed in issuing the said Powder, to be allowed a penny in the pound for issuing it, which the Master of the Ordinance is to allow in his accompt, as also to allow the Captain thereout his Watch Powder, and as the said two barrels of powder shall be spent from time to time, upon notice thereof a new supply is to be sent thither out of the next Store, to be issued as aforesaid.</p>
+            <p>That the Clerks of the Stores keep an exact Entry in a Book of the Names &amp; Qualities of all those that buy, and the quantities bought, added to each mans Name, and the time within which he bought it, and return it half-yearly to the Master of the Ordinance.</p>
+            <p>That no Fowler or other person be admitted to use a Piece, unless he first conform himself to English Habit and Language, and be a known Protestant.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Provinces and Counties.</cell>
+                     <cell role="label">Stores.</cell>
+                     <cell role="label">The persons authorized to grant Licences.</cell>
+                  </row>
+                  <row>
+                     <cell>The Province of Leinster, to be furnished out of the Stores of</cell>
+                     <cell>
+                        <list>
+                           <item>Dublin.</item>
+                           <item>Duncannon.</item>
+                        </list>
+                     </cell>
+                     <cell>The Master of the Ordinance.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And although the Master of the Ordinance be authorized to grant Licences throughout <hi>Leinster,</hi> yet for the more conveniencie of the Subjects, the persons under-named are appointed also to give Licences in such Counties of <hi>Leinster</hi> as are here expressed, and those Counties to be furnished out of the Stores above-mentioned, <hi>Viz.</hi>
+               <table>
+                  <row>
+                     <cell role="label">Provinces and Counties.</cell>
+                     <cell role="label">Stores.</cell>
+                     <cell role="label">The persons authorized to grant Licences.</cell>
+                  </row>
+                  <row>
+                     <cell>Kings County</cell>
+                     <cell> </cell>
+                     <cell>Sir <hi>Robert Forth</hi> Knight.</cell>
+                  </row>
+                  <row>
+                     <cell>Queens County</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Col. <hi>Thomas Pigot</hi> Master of the Wards, or in his absence,</item>
+                           <item>
+                              <hi>Henry Gilbert</hi> Esquire.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>County Kildare</cell>
+                     <cell> </cell>
+                     <cell>Sir <hi>Robert Meredith</hi> Knight.</cell>
+                  </row>
+                  <row>
+                     <cell>County Wexford</cell>
+                     <cell> </cell>
+                     <cell>Sir <hi>Richard Clifton</hi> Knight.</cell>
+                  </row>
+                  <row>
+                     <cell>County Killkenny</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Earl of <hi>Ossory,</hi> or in his absence,</item>
+                           <item>Sir <hi>William Flower</hi> Knight.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>County Westmeath</cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>Earl of <hi>Roscommon,</hi> or in his absence,</item>
+                           <item>Sir <hi>Henry Peirse</hi> Bar.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>County of Lowth</cell>
+                     <cell> </cell>
+                     <cell>Earl of <hi>Drogheda.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Province of Connaught, including the County of Galway, and the Town of Gal<g ref="char:EOLhyphen"/>way, to be furnished out of the Stores of</cell>
+                     <cell>
+                        <list>
+                           <item>Athlone.</item>
+                           <item>Galway.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>The Lord President of Connaught, or in his absence,</item>
+                           <item>the Vice-Presid. for the time being, and such other person in every county of the said Province, as the said L. Pre<g ref="char:EOLhyphen"/>sident or Vice-Presid. for the time being, shall appoint.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Province of Munster and County of Clare to be furnished out of the Stores of</cell>
+                     <cell>
+                        <list>
+                           <item>Corck.</item>
+                           <item>Limerick.</item>
+                           <item>Duncannon.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>The Lord President of Munster, or in his absence,</item>
+                           <item>the Vice-President for the time being, and such other person in e<g ref="char:EOLhyphen"/>very County of the said Province as the said Lord Pre<g ref="char:EOLhyphen"/>sident or Vice-President for the time being, shall appoint.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of Down to be furnished from the Stores of</cell>
+                     <cell>
+                        <list>
+                           <item>Carrigfergus and</item>
+                           <item>Newry,</item>
+                           <item>or either of them.</item>
+                        </list>
+                     </cell>
+                     <cell>Col. <hi>Marcus Trevor.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of Antrim to be furnished from the Stores of</cell>
+                     <cell>Carrigfergus.</cell>
+                     <cell>Earl of <hi>Donegal.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of London-Derry to be furnished from the Store of</cell>
+                     <cell>London-Derry.</cell>
+                     <cell>
+                        <list>
+                           <item>Earl of <hi>Mount Alexander,</hi> or in his absence,</item>
+                           <item>Col. <hi>John Gorge.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of Donegal to be furnished from the Store of</cell>
+                     <cell>London-Derry.</cell>
+                     <cell>
+                        <list>
+                           <item>Earl of <hi>Mount Alexander,</hi> or in his absence,</item>
+                           <item>Captain <hi>Charles Hamilton.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of Fermanagh to be furnished from the Store of</cell>
+                     <cell>
+                        <list>
+                           <item>Iniskillin, or</item>
+                           <item>London-Derry.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Earl of <hi>Mount Alexander,</hi> or in his absence,</item>
+                           <item>Sir <hi>John Cole</hi> Baronet.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of Monaghan to be furnished from the Store of</cell>
+                     <cell>Newry</cell>
+                     <cell>
+                        <hi>William</hi> Lord <hi>Caulfeild.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of Tyrone to be furnished from the Store of</cell>
+                     <cell>
+                        <list>
+                           <item>Carrigfergus or</item>
+                           <item>Charlemount.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <hi>William</hi> Lord <hi>Caulfeild.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of Cavan to be furnished from the Store of</cell>
+                     <cell>Dublin.</cell>
+                     <cell>Sir <hi>Francis Hamilton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The County of Armagh to be furnished from the Store of</cell>
+                     <cell>Newry.</cell>
+                     <cell>Lord <hi>Caulfeild.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <dateline>Given at the Council-Chamber in <hi>Dublin,</hi>
+                  <date>the Fourteenth day of <hi>October, 1661.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+            <closer>
+               <signed>
+                  <hi>Jo. <hi>Armachanus.</hi> Ja. <hi>Dublin.</hi> W. Caulfeild. Ja. Donelan. Paul Davys. Robert Forth. Ja. Ware. Rob. Meredith.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>John C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook,</hi> Printer to the Kings most Excellent Majesty: and are to be sold by <hi>John North</hi> Bookseller in Castle-street, <hi>Anno Dom.</hi> 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
